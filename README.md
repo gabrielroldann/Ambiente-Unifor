@@ -7,17 +7,17 @@
 - <a href="#Post-Subtração">Print Página Inicial</a>
 - <a href="#Post-Divisão">Print Página Inicial</a>
 
-###Página-Inicial
+# Página-Inicial
 <img src='Entregavel03/assets/pag-Inicial.png'>
 
-### Post-Soma
+# Post-Soma
 <img src='Entregavel03/assets/soma.png'>
 
-### Post-Subtração
+# Post-Subtração
 <img src='Entregavel03/assets/subtracao.png'>
 
-### Post-Multiplicação
+# Post-Multiplicação
 <img src='Entregavel03/assets/multiplicacao.png'>
 
-### Post-Divisão
+# Post-Divisão
 <img src='Entregavel03/assets/divisao.png'>
