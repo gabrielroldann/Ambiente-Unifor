@@ -2,17 +2,22 @@
 
 ## Entregavel-03 // <a href="https://github.com/gabrielroldann/Ambiente-Unifor/tree/main/Entregavel03">Arquivo do entregavel 03</a>
 
-### Print Página Inicial
+- <a href="Página-Inicial">Print Página Inicial</a>
+- <a href="Página-Inicial">Print Página Inicial</a>
+- <a href="Página-Inicial">Print Página Inicial</a>
+- <a href="Página-Inicial">Print Página Inicial</a>
+
+### Página-Inicial
 <img src='Entregavel03/assets/pag-Inicial.png'>
 
-### Print Post Soma
+### Post-Soma
 <img src='Entregavel03/assets/soma.png'>
 
-### Print Post Subtração
+### Post-Subtração
 <img src='Entregavel03/assets/subtracao.png'>
 
-### Print Post Multiplicação
+### Post-Multiplicação
 <img src='Entregavel03/assets/multiplicacao.png'>
 
-### Print Post Divisão
+### Post-Divisão
 <img src='Entregavel03/assets/divisao.png'>
