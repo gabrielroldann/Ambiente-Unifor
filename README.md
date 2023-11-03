@@ -5,6 +5,7 @@
 - <a href="#Página-Inicial">Print Página Inicial</a>
 - <a href="#Post-Soma">Print Soma</a>
 - <a href="#Post-Subtração">Print Subtração</a>
+- <a href="#Post-Multiplicação">Print Miltiplicação</a>
 - <a href="#Post-Divisão">Print Divisão</a>
 
 # Página-Inicial
