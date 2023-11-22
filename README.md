@@ -1,6 +1,8 @@
 # Ambiente-Unifor
 
-## Entregavel-03 || <a href="https://github.com/gabrielroldann/Ambiente-Unifor/tree/main/Entregavel03">Arquivo do Entregavel 03</a>
+<h2 align='center'>Entregaveis <a href="Entregavel03">03</a> e <a href="Entregavel04">04</a></h2>
+
+# Entregavel03 || <a href="https://github.com/gabrielroldann/Ambiente-Unifor/tree/main/Entregavel03">Arquivo do Entregavel 03</a>
 
 - <a href="#Página-Inicial">Print Página Inicial</a>
 - <a href="#Post-Soma">Print Soma</a>
@@ -22,3 +24,9 @@
 
 # Post-Divisão
 <img src='Entregavel03/assets/divisao.png'>
+
+-
+
+# Entregavel04 || <a href="https://github.com/gabrielroldann/Ambiente-Unifor/tree/main/Entregavel04">Arquivo do Entregavel 04</a>
+
+- <img align='center' src="Entregavel04/assets/printTests">
