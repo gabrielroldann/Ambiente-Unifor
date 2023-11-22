@@ -29,4 +29,4 @@
 
 # Entregavel04 || <a href="https://github.com/gabrielroldann/Ambiente-Unifor/tree/main/Entregavel04">Arquivo do Entregavel 04</a>
 
-- <img align='center' src="Entregavel04/assets/printTests">
+- <img align='center' src="Entregavel04/assets/printTests.png">
